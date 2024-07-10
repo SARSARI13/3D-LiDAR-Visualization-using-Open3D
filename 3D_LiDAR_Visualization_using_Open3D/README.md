@@ -18,10 +18,6 @@ The KITTI dataset is a cornerstone in self-driving car research, offering a dive
   - open3d
   - matplotlib
 
-### Methodology
-
-The Velodyne HDL-64E S2 3D LiDAR sensor is a critical component in autonomous driving research, renowned for its ability to capture high-resolution 3D point cloud data. This sensor plays a crucial role in generating detailed environmental models essential for navigation and perception tasks in autonomous vehicles.
-
 
 
 ## Processes Involved in Visualizing 3D LiDAR Sensor Scans
