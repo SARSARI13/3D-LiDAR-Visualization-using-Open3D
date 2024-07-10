@@ -32,12 +32,11 @@ The Velodyne HDL-64E S2 3D LiDAR sensor is a critical component in autonomous dr
 
 
 
-## Program Results Exemple
 
 [image]: assets/Results.gif
 
 
-## Street Velodyne 3D LiDAR. 
+## Program Results : Street Velodyne 3D LiDAR. 
 
 ![alt text][image]
 
